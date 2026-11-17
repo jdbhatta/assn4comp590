@@ -1,4 +1,3 @@
+# Demo video
 
-## Demo video
-
-[Watch the Quest demo](YOUR_VIDEO_URL)
+[Watch the Quest demo](https://youtu.be/y7p5kYU77h0)
